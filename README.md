@@ -1,5 +1,6 @@
 Clipboard
 =========
+This Project is forked from: https://github.com/VersoSolutions/CordovaClipboard
 
 Clipboard management plugin for Cordova/PhoneGap that supports iOS, Android, and Windows Phone 8.
 
@@ -7,9 +8,14 @@ Clipboard management plugin for Cordova/PhoneGap that supports iOS, Android, and
 
 Install the plugin using the CLI, for instance with PhoneGap:
 
-	phonegap local plugin add https://github.com/VersoSolutions/CordovaClipboard
+	`cordova plugin add cordova-plugin-clipboard`
+	`ionic plugin add cordova-plugin-clipboard`
 
 The plugin creates the object `cordova.plugins.clipboard` with the methods `copy(text, onSuccess, onError)` and `paste(onSuccess, onError)`.
+
+
+https://ionicframework.com/docs/native/clipboard/
+
 
 Example:
 
