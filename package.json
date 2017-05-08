@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-clipboard",
+  "name": "cordova-plugin-clipboard2",
   "version": "0.1.0",
   "description": "Clipboard management plugin for Cordova/PhoneGap",
   "cordova": {
-    "id": "cordova-plugin-clipboard",
+    "id": "cordova-plugin-clipboard2",
     "platforms": [
       "ios",
       "android",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielehrhardt/cordova-plugin-clipboard.git"
+    "url": "git+https://github.com/danielehrhardt/cordova-plugin-clipboard2.git"
   },
   "keywords": [
     "clipboard",
@@ -32,7 +32,7 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danielehrhardt/cordova-plugin-clipboard/issues"
+    "url": "https://github.com/danielehrhardt/cordova-plugin-clipboard2/issues"
   },
-  "homepage": "https://github.com/danielehrhardt/cordova-plugin-clipboard#readme"
+  "homepage": "https://github.com/danielehrhardt/cordova-plugin-clipboard2#readme"
 }
